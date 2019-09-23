@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<setting name ="RESTART_TIMEOUT">10</setting>
+	<setting name ="NO_ACTIVITY_TIMEOUT">20</setting>
+	<setting name ="WARNING_STATE_NO_ACTIVITY_TIMEOUT">60</setting>
+	
+		
+	<!--  xxx 222
+	CentraleSans-XLight
+	CentraleSans-Regular
+	CentraleSans-Thin
+	CentraleSans-Xbold
+	
+	GESSTwoM
+	AirStripArabic
+	YaHei
+	YaHeiB
+
+		
+		<round name="3">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">**</english>
+			<german font="CentraleSans-XLight"  size="36" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">**</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">**</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">**</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left">**</english>
+			<german font="CentraleSans-XLight"  size="30" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="v" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left">**</english>
+			<german font="CentraleSans-XLight"  size="25" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="25" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+	</round>
+		
+	-->
+
+	<text name="WELCOME">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Welcome</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">Willkommen</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="INSTRUCTIONS">
+		<english font="CentraleSans-Regular" size="28" embed="true" align="center">How quickly can you select the correct answer to our 6 questions about Philips? The top 3 players of the day win a Sonicare toothbrush.</english>
+		<german font="CentraleSans-Regular"  size="28" embed="true" align="center">Wählen Sie schnell die richtigen Antworten aus 6 Fragen aus. Die 3 besten Spieler des Tages gewinnen eine Sonicare Schallzahnbürste‎.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="28" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="28" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="28" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="28" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="SELECT">
+		<english font="CentraleSans-Bold" size="28" embed="true" align="center">Play and reach the top of the Leader Board.</english>
+		<german font="CentraleSans-Bold"  size="28" embed="true" align="center">Spielen Sie sich an die Spitze der Rangliste.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="28" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="28" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="28" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="28" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="PLEASE_WAIT">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Please wait. Instructions are given by the quiz master</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Bitte warten Sie einen Moment.\nDie Anweisungen werden vom Quizmaster gegeben.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="START_QUIZ">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Start now</english>
+		<german font="CentraleSans-Regular"  size="30" embed="true" align="center" adjust_y="0">Jetzt starten</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="QUIZ_NAME">
+		<english font="CentraleSans-XLight" size="42" embed="true" align="left">Philips Hearing Solutions</english>
+		<german font="CentraleSans-XLight"  size="42" embed="true" align="left" adjust_y="0">Philips Hearing Solutions</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-XLight"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-XLight"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-XLight"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="QUESTION">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="left">Question *1 of 6</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="left">Frage *1 von 6</german>
+		
+		<arabic font="GESSTwoM" size="35" html="true" embed="true" align="right">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="44" embed="true" align="left">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="44" embed="true" align="left">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="44" embed="true" align="left">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="41" embed="true" align="left">*ITALIANO*</italian>
+	</text>
+	
+	<text name="CORRECT">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Great, correct</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">Super, richtig</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="INCORRECT">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Sorry, wrong answer</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">Sorry, leider falsch</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="NEXT">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Next</english>
+		<german font="CentraleSans-Regular"  size="28" embed="true" align="center" adjust_y="3">Nächste Frage</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="WELL_DONE">
+		<english font="CentraleSans-Regular" size="68" embed="true" align="center">You’re a top 10 player!*Well done</english>
+		<german font="CentraleSans-Regular"  size="68" embed="true" align="center">Sie gehören zu den top 10 Spielern!*Gut gemacht</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+
+	<text name="SCORE">
+		<english font="CentraleSans-Regular" size="68" embed="true" align="center">*</english>
+		<german font="CentraleSans-Regular"  size="68" embed="true" align="center">*</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*</arabic>
+		<french font="CentraleSans-Xbold"  size="60" embed="true" align="center">*</french>
+		<spanish font="CentraleSans-Xbold"  size="60" embed="true" align="center">*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="left">*</mandarin>
+		<italian font="CentraleSans-Xbold"  size="60" embed="true" align="center">*</italian>
+	</text>
+	 
+
+	<text name="POINTS">
+		<english font="CentraleSans-Light" size="54" embed="true" align="center">You scored *correct out of 6 in *time seconds\nPoints awarded:</english>
+		<german font="CentraleSans-Light"  size="54" embed="true" align="center">Sie haben *correct von 6 Fragen in *time Sekunden richtig beantwortet.\nErreichte Punktzahl:</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="left">*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*</italian>
+	</text>
+	
+	<text name="THANK_YOU">
+		<english font="CentraleSans-Regular" size="48" embed="true" align="center">Thank you</english>
+		<german font="CentraleSans-Regular"  size="48" embed="true" align="center">Vielen Dank</german>
+		
+		<arabic font="GESSTwoM" size="48" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="48" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="48" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="48" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="48" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	
+	
+	<text name="LEADERBOARD_TITLE">
+		<english font="CentraleSans-Regular" size="54" embed="true" align="center">Leader Board</english>
+		<german font="CentraleSans-Regular"  size="54" embed="true" align="center">Rangliste</german>
+		
+		<arabic font="GESSTwoM" size="48" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="48" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="48" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="48" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="48" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="LEADERBOARD_COMPETITION">
+		<english font="CentraleSans-Regular" size="28" embed="true" align="center">Top 3 players each day will win a Sonicare toothbrush.</english>
+		<german font="CentraleSans-Regular"  size="28" embed="true" align="center">Die 3 besten Spieler können jeden Tag eine Sonicare Schallzahnbürste gewinnen.</german>
+		
+		<arabic font="GESSTwoM" size="28" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="28" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="28" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="28" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="28" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="ENTERNAME_TITLE">
+		<english font="CentraleSans-Regular" size="54" embed="true" align="center">You are in *position place</english>
+		<german font="CentraleSans-Regular"  size="54" embed="true" align="center">Sie sind auf dem *position. Platz</german>
+		
+		<arabic font="GESSTwoM" size="48" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="48" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="48" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="48" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="48" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="ENTERNAME_INSTRUCTIONS">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Enter your name below</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Tragen Sie Ihren Namen ein</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="LEADERBOARD_BUTTON">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Leader Board</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Rangliste</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	
+	<text name="SEND_BUTTON">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Send</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Senden</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="FINISH_BUTTON">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Finish</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Fertig</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+
+	
+	<text name="b_1">
+		<english font="CentraleSans-Regular" size="33" embed="true" align="center">A</english>
+		<german font="CentraleSans-Regular"  size="33" embed="true" align="center">A</german>
+		
+		<arabic font="GESSTwoM" size="33" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="33" embed="true" align="center">A</french>
+		<spanish font="CentraleSans-Regular"  size="33" embed="true" align="center">A</spanish>
+		<mandarin font="YaHeiB"  size="33" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="33" embed="true" align="center">A</italian>
+	</text>
+	<text name="b_2">
+		<english font="CentraleSans-Regular" size="33" embed="true" align="center">B</english>
+		<german font="CentraleSans-Regular"  size="33" embed="true" align="center">B</german>
+		
+		<arabic font="GESSTwoM" size="33" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="33" embed="true" align="center">B</french>
+		<spanish font="CentraleSans-Regular"  size="33" embed="true" align="center">B</spanish>
+		<mandarin font="YaHeiB"  size="33" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="33" embed="true" align="center">B</italian>
+	</text>
+	<text name="b_3">
+		<english font="CentraleSans-Regular" size="33" embed="true" align="center">C</english>
+		<german font="CentraleSans-Regular"  size="33" embed="true" align="center">C</german>
+		
+		<arabic font="GESSTwoM" size="33" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="33" embed="true" align="center">C</french>
+		<spanish font="CentraleSans-Regular"  size="33" embed="true" align="center">C</spanish>
+		<mandarin font="YaHeiB"  size="33" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="33" embed="true" align="center">C</italian>
+	</text>
+	
+	<!--  
+			<![CDATA[<font face="CentraleSans-Xbold"></font>\n \n]]>
+			
+	-->
+
+	
+	
+	<round name="1">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following items did Philips invent in 1982?</english>
+			<german font="CentraleSans-XLight"  size="36" embed="true" align="left">Welches der folgenden Produkte hat Philips im Jahr 1982 erfunden?</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">The light bulb</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Die Glühbirne</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">The CD (compact disc)</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Die CD (Compact Disc)</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">The Sonicare electric toothbrush</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Die Sonicare Schallzahnbürste</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">In 1982, Philips co-developed the compact disc, or better knows as CD, together with Sony.</font>\n \nPhilips is committed to innovation. During 2018, they invested 1.76 billion Euros in research and development with already more than 62,000 patent rights in their IP portfolio. Philips filed 1,120 new patents last year, with a strong focus on the growth areas in health and well-being.]]></english>
+			<german font="CentraleSans-XLight"  size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">1982 entwickelte Philips gemeinsam mit Sony die Compact Disc, besser bekannt als CD.</font>\n \nPhilips hat sich der Innovation verpflichtet. Im Jahr 2018 investierten sie 1,76 Milliarden Euro in die Forschung und Entwicklung. Ihr geistiges Eigentum umfasst bereits jetzt mehr als 62'000 Patentrechte. Fokussiert auf die Bereiche Gesundheit und Wohlbefinden meldete Philips im vergangenen Jahr 1'120 neue Patente an.]]></german>
+						
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="v" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">In 1982, Philips co-developed the compact disc, or better knows as CD, together with Sony.</font>\n \nPhilips is committed to innovation. During 2018, they invested 1.76 billion Euros in research and development with already more than 62,000 patent rights in their IP portfolio. Philips filed 1,120 new patents last year, with a strong focus on the growth areas in health and well-being.]]></english>
+			<german font="CentraleSans-XLight"  size="25" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="25" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+	</round>
+	
+	 
+
+	
+	<round name="2">
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left" html="true"><![CDATA[Which landmark building does <font face="CentraleSans-Xbold">not</font> have the Philips logo prominently displayed?]]></english>
+			<german font="CentraleSans-XLight"  size="36" embed="true" align="left" html="true"><![CDATA[In welchem dieser Gebäude ist <font face="CentraleSans-Xbold">kein</font> Philips-Logo sichtbar?]]></german>
+
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Hamburg train station</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Hamburg Hauptbahnhof</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">London Heathrow airport</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">London Heathrow Flughafen</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Eindhoven stadium</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Stadion Eindhoven </german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+	
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left"html="true"><![CDATA[<font face="CentraleSans-Xbold">Philips is prominently visible in major landmarks around the world.</font>\n \nMore than 450 million Euros have been invested in Philips marketing during 2019 leading to a worldwide brand value of over 10.9 billion Euros.]]></english>
+			<german font="CentraleSans-XLight"  size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">Philips ist in vielen wichtigen Gebäuden auf der ganzen Welt gut sichtbar.</font>\n \nIm Jahr 2019 wurden bereits über 450 Millionen Euro in das Marketing von Philips investiert. Der weltweite Markenwert von Philips aktuell über 10,9 Milliarden Euro.]]></german>
+
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="v" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left">Philips Sonicare AirFloss Ultra is clinically proven to  improve gingival health as effectively as floss.</english>
+			<german font="CentraleSans-XLight"  size="25" embed="true" align="left">Es ist klinisch belegt, dass Philips Sonicare AirFloss Ultra die Gesundheit des Zahnfleisches genau so verbessert wie die Nutzung von Zahnseide.</german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="25" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+	</round>
+	
+	<round name="3">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following products belong to Philips? Choose the answer which fits best.</english>
+			<german font="CentraleSans-XLight"  size="36" embed="true" align="left" html="true">Welche der folgenden Produkte gehören zu Philips? Wählen Sie die Antwort, die am besten passt.</german>
+
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">TV and coffee machine</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Fernseher und Kaffeemaschine</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">All of them</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Alle gezeigten Produkte</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">MRI scanner and baby bottle</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Magnetresonanztomograph (MRT) und Babyflasche</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">All of the previously shown products, as well as many more, are currently sold under the Philips name.</font>\n \nDuring the past 10 years, Philips transformed into a global HealthTech leader, focused on Diagnosis & Treatment, Connected Care and Personal Health. 60% of Philips sales is gained from products in leading positions (1 and 2) in their markets.]]></english>
+			<german font="CentraleSans-XLight"  size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">Alle zuvor gezeigten sowie viele weitere Produkte werden derzeit unter dem Namen Philips vertrieben.</font>\n \nIn den letzten 10 Jahren hat sich Philips zu einem weltweit führenden Gesundheitstechnologie-Unternehmen entwickelt. Philips konzentriert sich dabei auf die Bereiche Diagnose und Behandlung, vernetzte Versorgung und persönliche Gesundheit. 60% vom Umsatz wird mit Produkten in führenden Marktpositionen (1 und 2) erzielt.]]></german>
+
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="v" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left">Philips Sonicare AirFloss Ultra is clinically proven to  improve gingival health as effectively as floss.</english>
+			<german font="CentraleSans-XLight"  size="25" embed="true" align="left">Es ist klinisch belegt, dass Philips Sonicare AirFloss Ultra die Gesundheit des Zahnfleisches genau so verbessert wie die Nutzung von Zahnseide.</german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="25" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+	</round>
+	
+	<round name="4">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How was Philips ranked in the world's most reputable companies 2019 ranking by Reputation Institute?</english>
+			<german font="CentraleSans-XLight"  size="36" embed="true" align="left" html="true">Wie ist Philips in der Rangliste der renommiertesten Unternehmen 2019 von Reputation Institute platziert?</german>
+
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Better than Lego, worse than Netflix</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Besser als Lego, schlechter als Netflix</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_2">
+
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Better than Toyota, worse than Rolls Royce</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Besser als BMW, schlechter als Toyota</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Better than Bosch, worse than Google</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Besser als Bosch, schlechter als Ikea</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+					
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">Philips is ranked 18th in the Global RepTrak 100 companies ranking from Reputation Institute.</font>\n \nContributing to this is their "Healthy people, Sustainable planet" sustainability program. For example, Philips is now already carbon neutral in the US and continues to work on its goal to be carbon neutral worldwide in 2020.\n \nThe ranking is based on the public perception of 230,000 individuals in 15 countries.]]></english>
+			<german font="CentraleSans-XLight"  size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">Philips belegt den 18. Platz in der "Global RepTrak 100" Unternehmensrangliste von Reputation Institute.</font>\n \nIhr Nachhaltigkeitsprogramm "Healthy people, Sustainable planet" trägt hierzu erheblich bei. So operiert Philips beispielsweise in den USA bereits jetzt klimaneutral. Eine weltweite Klimaneutralität möchten sie im Jahr 2020 erreichen. \n \nDie Rangliste basiert auf der allgemeinen Wahrnehmung von 230'000 Personen aus 15 Ländern.]]></german>
+
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="v" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left">**</english>
+			<german font="CentraleSans-XLight"  size="25" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="25" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+	</round>
+	
+	<round name="5">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How many visits did the Philips.com website receive in 2018?</english>
+			<german font="CentraleSans-XLight"  size="36" embed="true" align="left">Wie viele Besuche hat die Webseite Philips.com im Jahr 2018 erhalten?</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Over 150 million</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Mehr als 150 Millionen</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Over 260 million</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Mehr als 260 Millionen</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Over 80 million</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Mehr als 80 Millionen</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">The Philips.com website had over 260 million visits worldwide in 2018, leading additional consumers to retail businesses.</font>\n \nIn addition, Philips is very visible on social media with over 485 million organic impressions on Facebook and 340,000 followers on Twitter.]]></english>
+			<german font="CentraleSans-XLight"  size="27" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">Die Webseite Philips.com verzeichnete 2018 weltweit über 260 Millionen Besuche und führte somit zusätzliche Kunden zu Retailunternehmen.</font>\n \nDarüber hinaus ist Philips mit 485 Millionen organischen Impressionen auf Facebook und 340'000 Followern auf Twitter in den Sozialen Medien sehr gut sichtbar.]]></german>
+
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="v" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+			<german font="CentraleSans-XLight"  size="25" embed="true" align="left"> </german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="25" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+	</round>
+	
+	<round name="6">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How many lives did Philips improve in 2018?</english>
+			<german font="CentraleSans-XLight"  size="36" embed="true" align="left">Wie viele Leben hat Philips im Jahr 2018 verbessert?</german>
+
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">As many as the population of Europe (741 million)</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">So viele wie die Bevölkerung Europas (741 Millionen)</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">As many as the population of China (1.43 billion)</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">So viele wie die Bevölkerung Chinas (1,43 Milliarden)</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">As many as the population of Africa (1.21 billion)</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">So viele wie die Bevölkerung Afrikas (1,21 Milliarden)</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">Through products and solutions that support people’s health and well-being Philips improved the lives of 1.43 billion people in 2018.</font>\n \nPhilips strives to make the world healthier and more sustainable through innovation. In 2012, they set themselves the goal to improve the lives of 3 billion people a year by 2025.]]></english>
+			<german font="CentraleSans-XLight"  size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">Mit Produkten und Lösungen, die die Gesundheit und das Wohlbefinden der Menschen unterstützen, hat Philips im Jahr 2018 das Leben von 1,43 Milliarden Menschen verbessert.</font>\n \nPhilips bestrebt die Welt durch Innovationen gesünder und nachhaltiger zu machen. Im Jahr 2012 haben sie sich zum Ziel gesetzt, bis 2025 jährlich das Leben von 3 Milliarden Menschen zu verbessern.]]></german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="v" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+			<german font="CentraleSans-XLight"  size="25" embed="true" align="left"> </german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="25" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+	</round>
+
+</data>
