@@ -1,0 +1,192 @@
+(function($) {
+	
+	
+	$(window).on("load", function (e) {
+		
+		
+	});
+	
+	
+	$(document).ready(function() {
+		
+		sauce_fullscreen();
+		sauce_smooth();
+		sauce_hamburger();
+		sauce_scroll();
+		sauce_video()
+		
+		
+	});
+	
+	
+	function sauce_video() {
+		
+		document.querySelector('video').playbackRate = 0.5;
+	}
+	
+	function sauce_fullscreen() {
+		
+		var resize = function() {
+ 			$('.hero').css({
+ 				width: $(window).width(),
+ 				height: $(window).height()
+ 			});
+ 			
+ 			$('.mobile-container').css({
+ 				
+ 				height: $(window).height()
+ 			});
+ 		};
+		 	// trigger function on each page resize
+		 	$(window).on('resize', resize);
+		 	// update size on page load
+		 	resize();
+	}
+	
+	function sauce_hamburger() {
+		
+		var mobileNav = $('.mobile-container');
+		
+	
+		
+		$('.hamburger').on('click', function() {
+			
+			$('.bar').toggleClass('animate');
+			mobileNav.toggleClass('nav-hide nav-show');
+			$('body').toggleClass('noscroll scroll');
+			$('.nav-overlay').toggleClass('show');
+			
+			
+		
+		});
+		
+		$('.nav-overlay').on('click', function() {
+			mobileNav.toggleClass('nav-hide nav-show');
+			$(this).toggleClass('show');
+			$('.bar').toggleClass('animate');
+		});
+		
+		$('ul.mobile--menu li a').on('click', function() {
+			mobileNav.toggleClass('nav-hide nav-show');
+			$('.bar').toggleClass('animate');
+			$('body').toggleClass('noscroll scroll');
+			
+		});
+		
+			
+	}
+	
+	function sauce_smooth() {
+		
+	
+		
+			// Select all links with hashes
+			$('a[href*="#"]')
+			// Remove links that don't actually link to anything
+		  .not('[href="#"]')
+		  .not('[href="#0"]')
+		  .click(function(event) {
+		    // On-page links
+		    if (
+		      location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') 
+		      && 
+		      location.hostname == this.hostname
+		    ) {
+		      // Figure out element to scroll to
+		      var target = $(this.hash);
+		      target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+		      // Does a scroll target exist?
+		      if (target.length) {
+		        // Only prevent default if animation is actually gonna happen
+		        event.preventDefault();
+		        $('html, body').animate({
+		          scrollTop: target.offset().top -70
+		        }, 1000, function() {
+		          // Callback after animation
+		          // Must change focus!
+		          var $target = $(target);
+		          $target.focus();
+		          if ($target.is(":focus")) { // Checking if the target was focused
+		            return false;
+		          } else {
+		            $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
+		            $target.focus(); // Set focus again
+		          };
+		        });
+		      }
+		    }
+		  });
+	
+		
+	}
+	
+	
+	function sauce_scroll() {
+		
+		window.sr = ScrollReveal();
+		
+		
+		
+		sr.reveal('.header--from--down', {
+			origin: 'bottom',
+			scale: 1,
+			duration: 2000,
+			distance: '100px',
+		}, 400);
+		
+		sr.reveal('.scroll--left', {
+			origin: 'left',
+			scale: 1,
+			duration: 2000,
+			distance: '100px',
+		}, 400);
+		
+		sr.reveal('.section--header--one', {
+			origin: 'bottom',
+			scale: 1,
+			duration: 3000,
+			distance: '150px',
+		}, 400);
+		sr.reveal('.section--header--two', {
+			origin: 'bottom',
+			scale: 1,
+			duration: 3000,
+			distance: '150px',
+		}, 400);
+		
+		sr.reveal('.section--header--three', {
+			origin: 'bottom',
+			scale: 1,
+			duration: 3000,
+			distance: '150px',
+		}, 400);
+		
+		sr.reveal('.section--header--four', {
+			origin: 'bottom',
+			scale: 1,
+			duration: 3000,
+			distance: '150px',
+		}, 400);
+		
+		sr.reveal('.section--header--five', {
+			origin: 'bottom',
+			scale: 1,
+			duration: 3000,
+			distance: '150px',
+		}, 400);
+		
+		sr.reveal('.section--header--six', {
+			origin: 'bottom',
+			scale: 1,
+			duration: 3000,
+			distance: '150px',
+		}, 400);
+		
+		
+		
+	}
+	
+	
+	
+	
+})(jQuery);	
