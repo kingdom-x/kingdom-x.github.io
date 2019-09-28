@@ -132,7 +132,7 @@
 	
 	<text name="START_QUIZ">
 		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Start now</english>
-		<german font="CentraleSans-Regular"  size="30" embed="true" align="center" adjust_y="0">Jetzt starten</german>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center" adjust_y="0">Jetzt starten</german>
 		
 		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
 		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
@@ -198,7 +198,7 @@
 	
 	<text name="WELL_DONE">
 		<english font="CentraleSans-Regular" size="68" embed="true" align="center">You’re a top 10 player!*Well done</english>
-		<german font="CentraleSans-Regular"  size="68" embed="true" align="center">Sie gehören zu den top 10 Spielern!*Gut gemacht</german>
+		<german font="CentraleSans-Regular"  size="68" embed="true" align="center">Sie gehören zu den\ntop 10 Spielern!*Gut gemacht</german>
 		
 		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
 		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
