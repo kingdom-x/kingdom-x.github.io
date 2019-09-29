@@ -322,6 +322,54 @@
 	</text>
 	
 
+	<text name="ARE_YOU_HTERE">
+		<english font="CentraleSans-Bold" size="54" embed="true" align="center">Are you still there?</english>
+		<german font="CentraleSans-Regular"  size="54" embed="true" align="center">Sind Sie noch da?</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="54" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="54" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="54" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="THE_GAME_WILL_RESTART">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">The game will restart in</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Das Spiel wird in</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="54" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="54" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="54" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="SECONDS">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">seconds.</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Sekunden neu starten.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="54" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="54" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="54" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	
+	
+	<text name="PRESS_TO_CONTINUE">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Press the screen to continue.</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Berühren Sie den Bildschirm,\num fortzufahren.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="54" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="54" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="54" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	
+	
 	
 	<text name="b_1">
 		<english font="CentraleSans-Regular" size="33" embed="true" align="center">A</english>
@@ -531,7 +579,7 @@
 		</text>
 		<text name="response_3">
 			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">MRI scanner and baby bottle</english>
-			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Magnetresonanztomograph (MRT) und Babyflasche</german>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Magnetresonanz-\ntomograph (MRT) und Babyflasche</german>
 			
 			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
 			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
@@ -590,7 +638,7 @@
 		<text name="response_2">
 
 			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Better than Toyota, worse than Rolls Royce</english>
-			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Besser als BMW, schlechter als Toyota</german>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Besser als Toyota, schlechter als Rolls Royce</german>
 			
 			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
 			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
@@ -716,8 +764,8 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">As many as the population of Europe (741 million)</english>
-			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">So viele wie die Bevölkerung Europas (741 Millionen)</german>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">As many as the population of Europe\n(741 million)</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">So viele wie die Bevölkerung Europas\n(741 Millionen)</german>
 			
 			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
 			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
@@ -726,8 +774,8 @@
 			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">As many as the population of China (1.43 billion)</english>
-			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">So viele wie die Bevölkerung Chinas (1,43 Milliarden)</german>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">As many as the population of China\n(1.43 billion)</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">So viele wie die Bevölkerung Chinas\n(1,43 Milliarden)</german>
 			
 			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
 			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
@@ -736,8 +784,8 @@
 			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">As many as the population of Africa (1.21 billion)</english>
-			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">So viele wie die Bevölkerung Afrikas (1,21 Milliarden)</german>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">As many as the population of Africa\n(1.21 billion)</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">So viele wie die Bevölkerung Afrikas\n(1,21 Milliarden)</german>
 			
 			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
 			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
