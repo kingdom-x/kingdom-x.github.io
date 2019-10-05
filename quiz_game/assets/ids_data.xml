@@ -522,7 +522,7 @@
 		</text>
 	
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left"html="true"><![CDATA[<font face="CentraleSans-Xbold">Philips is prominently visible in major landmarks around the world.</font>\n \nMore than 450 million Euros have been invested in Philips marketing during 2019 leading to a worldwide brand value of over 10.9 billion euros.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left"html="true"><![CDATA[<font face="CentraleSans-Xbold">Philips is prominently visible in major landmarks around the world.</font>\n \nMore than 450 million euros have been invested in Philips marketing during 2019 leading to a worldwide brand value of over 10.9 billion euros.]]></english>
 			<german font="CentraleSans-XLight"  size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">Philips ist in vielen wichtigen Gebäuden auf der ganzen Welt gut sichtbar.</font>\n \nIm Jahr 2019 wurden bereits über 450 Millionen Euro in das Marketing von Philips investiert. Der weltweite Markenwert von Philips beträgt aktuell über 10,9 Milliarden Euro.]]></german>
 
 			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
