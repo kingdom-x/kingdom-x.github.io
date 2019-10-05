@@ -2,10 +2,8 @@
 <data>
 	
 	<setting name ="RESTART_TIMEOUT">10</setting>
-	<setting name ="NO_ACTIVITY_TIMEOUT">20</setting>
-	<setting name ="WARNING_STATE_NO_ACTIVITY_TIMEOUT">60</setting>
+	<setting name ="NO_ACTIVITY_TIMEOUT">50</setting>
 	
-		
 	<!--  xxx 222
 	CentraleSans-XLight
 	CentraleSans-Regular
@@ -187,7 +185,8 @@
 	
 	<text name="NEXT">
 		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Next</english>
-		<german font="CentraleSans-Regular"  size="28" embed="true" align="center" adjust_y="3">Nächste Frage</german>
+		<german font="CentraleSans-Regular"  size="28" embed="true" align="center" adjust_y="3">Nächste</german>
+		<!-- <german font="CentraleSans-Regular"  size="28" embed="true" align="center" adjust_y="3">Nächste Frage</german>  -->
 		
 		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
 		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
@@ -198,7 +197,7 @@
 	
 	<text name="WELL_DONE">
 		<english font="CentraleSans-Regular" size="68" embed="true" align="center">You’re a top 10 player!*Well done</english>
-		<german font="CentraleSans-Regular"  size="68" embed="true" align="center">Sie gehören zu den\ntop 10 Spielern!*Gut gemacht</german>
+		<german font="CentraleSans-Regular"  size="68" embed="true" align="center">Sie gehören zu den\nTop 10 Spielern!*Gut gemacht</german>
 		
 		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
 		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
@@ -454,7 +453,7 @@
 		</text>
 
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">In 1982, Philips co-developed the compact disc, or better knows as CD, together with Sony.</font>\n \nPhilips is committed to innovation. During 2018, they invested 1.76 billion Euros in research and development with already more than 62,000 patent rights in their IP portfolio. Philips filed 1,120 new patents last year, with a strong focus on the growth areas in health and well-being.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">In 1982, Philips co-developed the compact disc, or better known as CD, together with Sony.</font>\n \nPhilips is committed to innovation. During 2018, they invested 1.76 billion euros in research and development with already more than 62,000 patent rights in their IP portfolio. Philips filed 1,120 new patents last year, with a strong focus on the growth areas in health and well-being.]]></english>
 			<german font="CentraleSans-XLight"  size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">1982 entwickelte Philips gemeinsam mit Sony die Compact Disc, besser bekannt als CD.</font>\n \nPhilips hat sich der Innovation verpflichtet. Im Jahr 2018 investierten sie 1,76 Milliarden Euro in die Forschung und Entwicklung. Ihr geistiges Eigentum umfasst bereits jetzt mehr als 62'000 Patentrechte. Fokussiert auf die Bereiche Gesundheit und Wohlbefinden meldete Philips im vergangenen Jahr 1'120 neue Patente an.]]></german>
 						
 			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
@@ -465,7 +464,7 @@
 		</text>
 		
 		<text name="explanation_bottom_">
-			<english font="CentraleSans-XLight" size="25" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">In 1982, Philips co-developed the compact disc, or better knows as CD, together with Sony.</font>\n \nPhilips is committed to innovation. During 2018, they invested 1.76 billion Euros in research and development with already more than 62,000 patent rights in their IP portfolio. Philips filed 1,120 new patents last year, with a strong focus on the growth areas in health and well-being.]]></english>
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">In 1982, Philips co-developed the compact disc, or better knows as CD, together with Sony.</font>\n \nPhilips is committed to innovation. During 2018, they invested 1.76 billion euros in research and development with already more than 62,000 patent rights in their IP portfolio. Philips filed 1,120 new patents last year, with a strong focus on the growth areas in health and well-being.]]></english>
 			<german font="CentraleSans-XLight"  size="25" embed="true" align="left">**</german>
 			
 			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
@@ -523,8 +522,8 @@
 		</text>
 	
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left"html="true"><![CDATA[<font face="CentraleSans-Xbold">Philips is prominently visible in major landmarks around the world.</font>\n \nMore than 450 million Euros have been invested in Philips marketing during 2019 leading to a worldwide brand value of over 10.9 billion Euros.]]></english>
-			<german font="CentraleSans-XLight"  size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">Philips ist in vielen wichtigen Gebäuden auf der ganzen Welt gut sichtbar.</font>\n \nIm Jahr 2019 wurden bereits über 450 Millionen Euro in das Marketing von Philips investiert. Der weltweite Markenwert von Philips aktuell über 10,9 Milliarden Euro.]]></german>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left"html="true"><![CDATA[<font face="CentraleSans-Xbold">Philips is prominently visible in major landmarks around the world.</font>\n \nMore than 450 million Euros have been invested in Philips marketing during 2019 leading to a worldwide brand value of over 10.9 billion euros.]]></english>
+			<german font="CentraleSans-XLight"  size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">Philips ist in vielen wichtigen Gebäuden auf der ganzen Welt gut sichtbar.</font>\n \nIm Jahr 2019 wurden bereits über 450 Millionen Euro in das Marketing von Philips investiert. Der weltweite Markenwert von Philips beträgt aktuell über 10,9 Milliarden Euro.]]></german>
 
 			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
 			<french font="CentraleSans-Xbold"  size="25" embed="true" align="left">*FRANÇAIS*</french>
@@ -638,7 +637,7 @@
 		<text name="response_2">
 
 			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Better than Toyota, worse than Rolls Royce</english>
-			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Besser als Toyota, schlechter als Rolls Royce</german>
+			<german font="CentraleSans-Xbold"  size="35" embed="true" align="left">Besser als Toyota, schlechter als Rolls Royce</german>
 			
 			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
 			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
