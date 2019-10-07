@@ -647,7 +647,7 @@
 		</text>
 		<text name="response_3">
 			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Better than Bosch, worse than Google</english>
-			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Besser als Bosch, schlechter als Ikea</german>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">Besser als Bosch, schlechter als Google</german>
 			
 			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
 			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
