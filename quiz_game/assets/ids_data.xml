@@ -97,7 +97,7 @@
 	
 	<text name="INSTRUCTIONS">
 		<english font="CentraleSans-Regular" size="28" embed="true" align="center">How quickly can you select the correct answer to our 6 questions about Philips? The top 3 players of the day win a Sonicare toothbrush.</english>
-		<german font="CentraleSans-Regular"  size="28" embed="true" align="center">Wählen Sie schnell die richtigen Antworten aus 6 Fragen bei. Die 3 besten Spieler des Tages gewinnen eine Sonicare Schallzahnbürste‎.</german>
+		<german font="CentraleSans-Regular"  size="28" embed="true" align="center">Wählen Sie schnell die richtigen Antworten bei 6 Fragen aus. Die 3 besten Spieler des Tages gewinnen eine Sonicare Schallzahnbürste‎.</german>
 		
 		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
 		<french font="CentraleSans-Regular"  size="28" embed="true" align="center">*FRANÇAIS*</french>
@@ -477,12 +477,10 @@
 	</round>
 	
 	 
-
-	
 	<round name="2">
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left" html="true"><![CDATA[Which landmark building does <font face="CentraleSans-Xbold">not</font> have the Philips prominently displayed?]]></english>
-			<german font="CentraleSans-XLight"  size="36" embed="true" align="left" html="true"><![CDATA[In welchem dieser Gebäude ist <font face="CentraleSans-Xbold">kein</font> Philips sichtbar?]]></german>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left" html="true"><![CDATA[In which of these landmark buildings is Philips <font face="CentraleSans-Xbold">not</font> prominently displayed?]]></english>
+			<german font="CentraleSans-XLight"  size="36" embed="true" align="left" html="true"><![CDATA[In welchem dieser Gebäude ist Philips <font face="CentraleSans-Xbold">nicht</font> gut sichtbar?]]></german>
 
 			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
 			<french font="CentraleSans-XLight"  size="36" embed="true" align="left">*FRANÇAIS*</french>
