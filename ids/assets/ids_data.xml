@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<setting name ="RESTART_TIMEOUT">10</setting>
+	<setting name ="NO_ACTIVITY_TIMEOUT">20</setting>
+	<setting name ="WARNING_STATE_NO_ACTIVITY_TIMEOUT">60</setting>
+	
+		
+	<!--  xxx
+	CentraleSans-XLight
+	CentraleSans-Regular
+	CentraleSans-Thin
+	CentraleSans-Xbold
+	
+	GESSTwoM
+	AirStripArabic
+	YaHei
+	YaHeiB
+
+		
+		<round name="3">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">**</english>
+			<german font="CentraleSans-XLight"  size="36" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">**</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">**</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">**</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left">**</english>
+			<german font="CentraleSans-XLight"  size="30" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="v" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left">**</english>
+			<german font="CentraleSans-XLight"  size="25" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="25" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+	</round>
+		
+	-->
+
+	<text name="WELCOME">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Welcome</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">Willkommen</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="PLEASE_WAIT">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Please wait. Instructions are given by the quiz master</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Bitte warten Sie einen Moment.\nDie Anweisungen werden vom Quizmaster gegeben.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="START_QUIZ">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Start quiz</english>
+		<german font="CentraleSans-Regular"  size="30" embed="true" align="center" adjust_y="0">Quiz beginnen</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="QUIZ_NAME">
+		<english font="CentraleSans-XLight" size="42" embed="true" align="left">Philips Complete Clean Quiz</english>
+		<german font="CentraleSans-XLight"  size="42" embed="true" align="left" adjust_y="0">Philips Mythen der Mundpflege</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-XLight"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-XLight"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-XLight"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="QUESTION">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="left">Question</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="left">Frage</german>
+		
+		<arabic font="GESSTwoM" size="35" html="true" embed="true" align="right">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="44" embed="true" align="left">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="44" embed="true" align="left">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="44" embed="true" align="left">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="41" embed="true" align="left">*ITALIANO*</italian>
+	</text>
+	
+	<text name="CORRECT">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Correct</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">Richtig</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="INCORRECT">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Incorrect</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">Falsch</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="NEXT">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Next</english>
+		<german font="CentraleSans-Regular"  size="28" embed="true" align="center" adjust_y="3">Nächste Frage</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="WELL_DONE">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">You scored</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">Sie erzielten:</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+
+	<text name="SCORE">
+		<english font="CentraleSans-Xbold" size="70" embed="true" align="center">*</english>
+		<german font="CentraleSans-Xbold"  size="70" embed="true" align="center">*</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*</arabic>
+		<french font="CentraleSans-Xbold"  size="60" embed="true" align="center">*</french>
+		<spanish font="CentraleSans-Xbold"  size="60" embed="true" align="center">*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="left">*</mandarin>
+		<italian font="CentraleSans-Xbold"  size="60" embed="true" align="center">*</italian>
+	</text>
+	
+	<text name="POINTS">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">out of</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">von</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="left">*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*</italian>
+	</text>
+	
+	<text name="THANK_YOU">
+		<english font="CentraleSans-Regular" size="48" embed="true" align="center">Thank you</english>
+		<german font="CentraleSans-Regular"  size="48" embed="true" align="center">Vielen Dank</german>
+		
+		<arabic font="GESSTwoM" size="48" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="48" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="48" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="48" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="48" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="b_1">
+		<english font="CentraleSans-Regular" size="33" embed="true" align="center">A</english>
+		<german font="CentraleSans-Regular"  size="33" embed="true" align="center">A</german>
+		
+		<arabic font="GESSTwoM" size="33" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="33" embed="true" align="center">A</french>
+		<spanish font="CentraleSans-Regular"  size="33" embed="true" align="center">A</spanish>
+		<mandarin font="YaHeiB"  size="33" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="33" embed="true" align="center">A</italian>
+	</text>
+	<text name="b_2">
+		<english font="CentraleSans-Regular" size="33" embed="true" align="center">B</english>
+		<german font="CentraleSans-Regular"  size="33" embed="true" align="center">B</german>
+		
+		<arabic font="GESSTwoM" size="33" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="33" embed="true" align="center">B</french>
+		<spanish font="CentraleSans-Regular"  size="33" embed="true" align="center">B</spanish>
+		<mandarin font="YaHeiB"  size="33" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="33" embed="true" align="center">B</italian>
+	</text>
+	<text name="b_3">
+		<english font="CentraleSans-Regular" size="33" embed="true" align="center">C</english>
+		<german font="CentraleSans-Regular"  size="33" embed="true" align="center">C</german>
+		
+		<arabic font="GESSTwoM" size="33" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="33" embed="true" align="center">C</french>
+		<spanish font="CentraleSans-Regular"  size="33" embed="true" align="center">C</spanish>
+		<mandarin font="YaHeiB"  size="33" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="33" embed="true" align="center">C</italian>
+	</text>
+	
+	
+	<!--  
+			<![CDATA[]]>
+			<font face="CentraleSans-Xbold"></font>
+			
+	-->
+	
+	<round name="1">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare toothbrushes:</english>
+			<german font="CentraleSans-XLight"  size="36" embed="true" align="left" html="true"><![CDATA[Hinter den folgenden Aussagen verbirgt sich ein Mythos. Welche Aussage is falsch?\n<font face="CentraleSans-Xbold">Philips Sonicare Zahnbürsten:</font>]]></german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are efficient</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">sind effizient bei der Plaqueentfernung</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are expensive</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">sind teuer</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are gentle</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">sind sanft zum Zahnfleisch</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left">Prices start as low as 49,99 EUR while maintaining the high performance level.</english>
+			<german font="CentraleSans-XLight"  size="30" embed="true" align="left" html="true"><![CDATA[Philips Sonicare Schallzahnbürsten sind teuer.\n \n<font face="CentraleSans-Xbold">Falsch, dies ist ein Mythos.</font>\n \nDenn das Sonicare-Portfolio bietet eine breite Auswahl an Zahnbürsten vom Premium- bis zum Einstiegsmodell, die bereits ab einem Preis von €49,99 eine hervorragende Reinigungsleistung bieten.]]></german>
+						
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="v" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left">Prices start as low as 49,99 EUR while maintaining the high performance level.</english>
+			<german font="CentraleSans-XLight"  size="25" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="25" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+	</round>
+	
+	<round name="2">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare Airfloss is:</english>
+			<german font="CentraleSans-XLight"  size="36" embed="true" align="left" html="true"><![CDATA[Hinter den folgenden Aussagen verbirgt sich ein Mythos. Welche Aussage ist falsch?\n<font face="CentraleSans-Xbold">Philips Sonicare AirFloss ist:</font>]]></german>
+
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">gental on gums</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">zahnfleischschonend</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">not effective</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">nicht effektiv bei der Reinigung der Zwischenräume</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">not a waterjet</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">keine Munddusche</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left">Philips Sonicare AirFloss Ultra is clinically proven to  improve gingival health as effectively as floss.</english>
+			<german font="CentraleSans-XLight"  size="30" embed="true" align="left" html="true"><![CDATA[Philips Sonicare AirFloss ist nicht effektiv bei der Reinigung der Zahnzwischenräume.\n \n<font face="CentraleSans-Xbold">Falsch, dies ist ein Mythos.</font>\n \nDenn es ist klinisch belegt, dass der AirFloss Ultra effektiv die Interdentalräume reinigt und so die Gesundheit des Zahnfleisches genauso verbessert wie die Nutzung von Zahnseide.]]></german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="v" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left">Philips Sonicare AirFloss Ultra is clinically proven to  improve gingival health as effectively as floss.</english>
+			<german font="CentraleSans-XLight"  size="25" embed="true" align="left">Es ist klinisch belegt, dass Philips Sonicare AirFloss Ultra die Gesundheit des Zahnfleisches genau so verbessert wie die Nutzung von Zahnseide.</german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="25" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+	</round>
+	
+	<round name="3">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare toothbrushes:</english>
+			<german font="CentraleSans-XLight"  size="36" embed="true" align="left" html="true"><![CDATA[Hinter den folgenden Aussagen verbirgt sich ein Mythos. Welche Aussage is falsch?\n<font face="CentraleSans-Xbold">Philips Sonicare Schallzahnbürsten:</font>]]></german>
+			
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">have more movements than other brushes</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">haben mehr Bewegungen als viele andere Zahnbürsten</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are less effective than round brush heads</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">sind weniger effektiv als Zahnbürsten mit runden Bürstenköpfen</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are more effective than manual brushing</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">sind effektiver als Handzahnbürsten</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+	
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left">100% improval of gingival health.\nPhilips Sonicare DiamondClean Smart with Premium Plaque Control brush head vs. Oral-B Genius 8000 with FlossAction brush head</english>
+			<german font="CentraleSans-XLight"  size="28" embed="true" align="left" html="true"><![CDATA[Philips Sonicare Schallzahnbürsten sind weniger effektiv als andere runde Zahnbürstenköpfe.\n \n<font face="CentraleSans-Xbold">Falsch, dies ist ein Mythos.</font>\n \nDenn es ist klinisch belegt, dass die Sonicare DiamondClean Smart mit Premium Plaque Defence Bürstenkopf der Oral-B Genius 8000 mit FlossAction Bürstenkopf in Plaqueentfernung und Verbesserung der Zahnfleischgesundheit überlegen ist.]]></german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="v" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left">**</english>
+			<german font="CentraleSans-XLight"  size="25" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="25" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+	</round>
+	
+	<round name="4">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare toothbrushes:</english>
+			<german font="CentraleSans-XLight"  size="36" embed="true" align="left" html="true"><![CDATA[Hinter den folgenden Aussagen verbirgt sich ein Mythos. Welche Aussge ist falsch?\n<font face="CentraleSans-Xbold">Philips Sonicare Schallzahnbürsten:</font>]]></german>
+
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are a Stiftung Warentest "test winner"</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">stellen aktuell den Testsieger der Stiftung Warentest</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are abrasive</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">sind abrasiv</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">effectively remove plague</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">entfernen Zahnbelag effektiv</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left">Sonicare causes 50% less dentin wear than a manual toothbrush.</english>
+			<german font="CentraleSans-XLight"  size="30" embed="true" align="left" html="true"><![CDATA[Philips Sonicare Schallzahnbürsten sind abrasiv.\n \n<font face="CentraleSans-Xbold">Falsch, dies ist ein Mythos.</font>\n \nDenn es ist klinisch belegt, dass die Dentin-Abrasion einer Sonicare um etwa 50% geringer ist als bei einer Handzahnbürste.\n \nSonicare ist nachweislich sanft zu den Zahnoberflächen und zum Zahnfleisch, aber stark bei der Plaqueentfernung.]]></german>
+
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="v" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left">**</english>
+			<german font="CentraleSans-XLight"  size="25" embed="true" align="left">**</german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="25" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+	</round>
+	
+	<round name="5">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare toothbrushes:</english>
+			<german font="CentraleSans-XLight"  size="36" embed="true" align="left" html="true"><![CDATA[Hinter den folgenden Aussagen verbirgt sich ein Mythos. Welche Aussage ist falsch?\n<font face="CentraleSans-Xbold">Philips Sonicare Schallzahnbürsten:</font>]]></german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">support cleaning in-between teeth</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">unterstützen bei der Reinigung zwischen den Zähnen</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">misses hard to reach areas</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">reinigen schlecht in schwer zu erreichenden Regionen</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">comes with several intisity levels</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">gibt es mit mehreren Intensitätsstufen</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left">Sonicare causes 50% less dentin wear than a manual toothbrush.</english>
+			<german font="CentraleSans-XLight"  size="27" embed="true" align="left" html="true"><![CDATA[Philips Sonicare Schallzahnbürsten reinigen schlecht in schwer zu erreichenden Regionen.\n \n<font face="CentraleSans-Xbold">Falsch, dies ist ein Mythos.</font>\n \nSelbst im unteren Bogen des Lingualbeereichs kann Sonicare Plaque entfernen.\n \nEntweder den Bürstenkopf von vorne senkrecht in den Bogen einführen oder einen unserer Minibürstenköpfe benutzen.\n \nUnsere Premium-Plaque Bürstenköpfe passen sich der Form des Gebisses an.\n \nDank der dynamischen Flüssigkeitsströmung erreichen Sonicare Schallzahnbürsten auf tief zwischen die Zähne.]]></german>
+
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="v" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+			<german font="CentraleSans-XLight"  size="25" embed="true" align="left"> </german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="25" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+	</round>
+	
+	<round name="6">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare Airfloss is:</english>
+			<german font="CentraleSans-XLight"  size="36" embed="true" align="left" html="true"><![CDATA[Hinter den folgenden Aussagen verbirgt sich ein Mythos. Welche der Aussagen ist falsch?\n<font face="CentraleSans-Xbold">Philips Sonicare AirFloss:</font>]]></german>
+
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">is easy to use</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">ist einfach zu benutzen</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">removes less plaque than waterjets</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">entfernt weniger Zahnbelag als Mundduschen</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">removes up to 99,9% of plaque</english>
+			<german font="CentraleSans-Xbold"  size="36" embed="true" align="left">entfernt bis zu 99.9% des Zahnbelags</german>
+			
+			<arabic font="GESSTwoM" size="36" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="36" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="36" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="36" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left">Airfloss is extremely easy to use and removes plaque effectively</english>
+			<german font="CentraleSans-XLight"  size="30" embed="true" align="left" html="true"><![CDATA[Philips Sonicare AirFloss Ultra entfernt weniger Zahnbelag als Mundduschen.\n \n<font face="CentraleSans-Xbold">Falsch, dies ist ein Mythos.</font>\n \nDenn wie Sie sehen, kann ein für Mundduschen typischer gleichmäßiger Wasserstrahl künstlichen Plaque von einer Glasscheibe im Labor nicht wirklich entfernen.\n \nErst wenn dieser Strahl mit Luft vermischt wird – wie beim Sonicare AirFloss – entsteht ein Sprühnebel, der ausreichend Scherkräfte entwickelt, um Plaque zu entfernen.]]></german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-Xbold"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-Xbold"  size="v" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-Xbold"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+			<german font="CentraleSans-XLight"  size="25" embed="true" align="left"> </german>
+			
+			<arabic font="GESSTwoM" size="25" html="true" embed="true" align="right">*عربى*</arabic>
+			<french font="CentraleSans-XLight"  size="25" embed="true" align="left">*FRANÇAIS*</french>
+			<spanish font="CentraleSans-XLight"  size="25" embed="true" align="left">*ESPAÑOL*</spanish>
+			<mandarin font="YaHeiB"  size="25" embed="true" align="left">*您完成*</mandarin>
+			<italian font="CentraleSans-XLight"  size="25" embed="true" align="left">*ITALIANO*</italian>
+		</text>
+	</round>
+
+</data>
