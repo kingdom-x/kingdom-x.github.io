@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<setting name ="RESTART_TIMEOUT">10</setting>
+	<setting name ="NO_ACTIVITY_TIMEOUT">50</setting>
+
+	<text name="WELCOME">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Welcome</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">Willkommen</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="INSTRUCTIONS">
+		<english font="CentraleSans-Regular" size="28" embed="true" align="center">How quickly can you select the correct answer to our 6 questions about Philips? The top 3 players of the day win a Sonicare toothbrush.</english>
+		<german font="CentraleSans-Regular"  size="28" embed="true" align="center">Wählen Sie schnell die richtigen Antworten bei 6 Fragen aus. Die 3 besten Spieler des Tages gewinnen eine Sonicare Schallzahnbürste‎.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="28" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="28" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="28" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="28" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="SELECT">
+		<english font="CentraleSans-Bold" size="28" embed="true" align="center">Play and reach the top of the Leader Board.</english>
+		<german font="CentraleSans-Bold"  size="28" embed="true" align="center">Spielen Sie sich an die Spitze der Rangliste.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="28" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="28" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="28" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="28" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="PLEASE_WAIT">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Please wait. Instructions are given by the quiz master</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Bitte warten Sie einen Moment.\nDie Anweisungen werden vom Quizmaster gegeben.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="START_QUIZ">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Start now</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center" adjust_y="0">Jetzt starten</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="QUIZ_NAME">
+		<english font="CentraleSans-XLight" size="42" embed="true" align="left">Philips Oral Healthcare Quiz</english>
+		<german font="CentraleSans-XLight"  size="42" embed="true" align="left" adjust_y="0">Philips Oral Healthcare Quiz</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-XLight"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-XLight"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-XLight"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="QUESTION">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="left">Question *1</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="left">Frage *1</german>
+		
+		<arabic font="GESSTwoM" size="35" html="true" embed="true" align="right">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="44" embed="true" align="left">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="44" embed="true" align="left">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="44" embed="true" align="left">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="41" embed="true" align="left">*ITALIANO*</italian>
+	</text>
+	
+	<text name="CORRECT">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Great, correct</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">Super, richtig</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="INCORRECT">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Sorry, wrong answer</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">Sorry, leider falsch</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="NEXT">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Next</english>
+		<german font="CentraleSans-Regular"  size="28" embed="true" align="center" adjust_y="3">Weiter</german>
+		<!-- <german font="CentraleSans-Regular"  size="28" embed="true" align="center" adjust_y="3">Nächste Frage</german>  -->
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="WELL_DONE">
+		<english font="CentraleSans-Regular" size="68" embed="true" align="center">You’re a top 10 player!*Well done!</english>
+		<german font="CentraleSans-Regular"  size="68" embed="true" align="center">Sie gehören zu den\nTop 10 Spielern!*Gut gemacht</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+
+	<text name="SCORE">
+		<english font="CentraleSans-Regular" size="68" embed="true" align="center">*</english>
+		<german font="CentraleSans-Regular"  size="68" embed="true" align="center">*</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*</arabic>
+		<french font="CentraleSans-Xbold"  size="60" embed="true" align="center">*</french>
+		<spanish font="CentraleSans-Xbold"  size="60" embed="true" align="center">*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="left">*</mandarin>
+		<italian font="CentraleSans-Xbold"  size="60" embed="true" align="center">*</italian>
+	</text>
+	 
+
+	<text name="POINTS">
+		<english font="CentraleSans-Light" size="54" embed="true" align="center">You scored *correct out of 6 in *time seconds\nPoints awarded:</english>
+		<german font="CentraleSans-Light"  size="54" embed="true" align="center">Sie haben *correct von 6 Fragen in *time Sekunden richtig beantwortet.\nErreichte Punktzahl:</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="left">*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*</italian>
+	</text>
+	
+	<text name="THANK_YOU">
+		<english font="CentraleSans-Regular" size="48" embed="true" align="center">Thank you</english>
+		<german font="CentraleSans-Regular"  size="48" embed="true" align="center">Vielen Dank</german>
+		
+		<arabic font="GESSTwoM" size="48" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="48" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="48" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="48" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="48" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	
+	
+	<text name="LEADERBOARD_TITLE">
+		<english font="CentraleSans-Regular" size="54" embed="true" align="center">Leader Board</english>
+		<german font="CentraleSans-Regular"  size="54" embed="true" align="center">Rangliste</german>
+		
+		<arabic font="GESSTwoM" size="48" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="48" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="48" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="48" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="48" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="LEADERBOARD_COMPETITION">
+		<english font="CentraleSans-Regular" size="28" embed="true" align="center">Top 3 players each day will win a Sonicare toothbrush.</english>
+		<german font="CentraleSans-Regular"  size="28" embed="true" align="center">Die 3 besten Spieler können jeden Tag eine Sonicare Schallzahnbürste gewinnen.</german>
+		
+		<arabic font="GESSTwoM" size="28" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="28" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="28" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="28" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="28" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="ENTERNAME_TITLE">
+		<english font="CentraleSans-Regular" size="54" embed="true" align="center">You are in *position place</english>
+		<german font="CentraleSans-Regular"  size="54" embed="true" align="center">Sie sind auf dem *position. Platz</german>
+		
+		<arabic font="GESSTwoM" size="48" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="48" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="48" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="48" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="48" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="ENTERNAME_INSTRUCTIONS">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Enter your name below</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Tragen Sie Ihren Namen ein</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="LEADERBOARD_BUTTON">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Leader Board</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Rangliste</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	
+	<text name="SEND_BUTTON">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Send</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Senden</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="FINISH_BUTTON">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Finish</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Fertig</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+
+	<text name="ARE_YOU_HTERE">
+		<english font="CentraleSans-Bold" size="54" embed="true" align="center">Are you still there?</english>
+		<german font="CentraleSans-Regular"  size="54" embed="true" align="center">Sind Sie noch da?</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="54" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="54" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="54" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="THE_GAME_WILL_RESTART">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">The game will restart in</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Das Spiel wird in</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="54" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="54" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="54" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="SECONDS">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">seconds.</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Sekunden neu starten.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="54" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="54" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="54" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	
+	
+	<text name="PRESS_TO_CONTINUE">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Press the screen to continue.</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Berühren Sie den Bildschirm,\num fortzufahren.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="54" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="54" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="54" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	
+	
+	
+	<text name="b_1">
+		<english font="CentraleSans-Regular" size="33" embed="true" align="center">A</english>
+		<german font="CentraleSans-Regular"  size="33" embed="true" align="center">A</german>
+		
+		<arabic font="GESSTwoM" size="33" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="33" embed="true" align="center">A</french>
+		<spanish font="CentraleSans-Regular"  size="33" embed="true" align="center">A</spanish>
+		<mandarin font="YaHeiB"  size="33" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="33" embed="true" align="center">A</italian>
+	</text>
+	<text name="b_2">
+		<english font="CentraleSans-Regular" size="33" embed="true" align="center">B</english>
+		<german font="CentraleSans-Regular"  size="33" embed="true" align="center">B</german>
+		
+		<arabic font="GESSTwoM" size="33" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="33" embed="true" align="center">B</french>
+		<spanish font="CentraleSans-Regular"  size="33" embed="true" align="center">B</spanish>
+		<mandarin font="YaHeiB"  size="33" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="33" embed="true" align="center">B</italian>
+	</text>
+	<text name="b_3">
+		<english font="CentraleSans-Regular" size="33" embed="true" align="center">C</english>
+		<german font="CentraleSans-Regular"  size="33" embed="true" align="center">C</german>
+		
+		<arabic font="GESSTwoM" size="33" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="33" embed="true" align="center">C</french>
+		<spanish font="CentraleSans-Regular"  size="33" embed="true" align="center">C</spanish>
+		<mandarin font="YaHeiB"  size="33" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="33" embed="true" align="center">C</italian>
+	</text>
+	
+	<!--  
+			<![CDATA[<font face="CentraleSans-Xbold"></font>\n \n]]>
+			
+	-->
+
+	<!-- ////////////////////////////////////////////////////// ROUNDS ////////////////////////////////////////////////////////////////////////////////////////////// -->
+	
+
+	<round name="1">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 1?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (1).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+	
+	<round name="2">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 2?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (2).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="3">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 3?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (3).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="4">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 4?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (4).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="5">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 5?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (5).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="6">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 6?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (6).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="7">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 7?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (7).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="8">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 8?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (8).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="9">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 9?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (9).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="10">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 10?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (10).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="11">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 11?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (11).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="12">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 12?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (12).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="13">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 13?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (13).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="14">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 14?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (14).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="15">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 15?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (15).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="16">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 16?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (16).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="17">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 17?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (17).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="18">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 18?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (18).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="19">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 19?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (19).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="20">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 20?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (20).</font>\n \nThis is the explanation body text in regular font.]]></english>
+		</text>
+		
+		<text name="explanation_bottom_">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	
+
+	
+	<!-- ////////////////////////////////////////////////////// END ROUNDS ////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+</data>
