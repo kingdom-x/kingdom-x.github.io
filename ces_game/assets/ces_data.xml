@@ -332,24 +332,24 @@
 	<round name="1">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 1?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare toothbrushes:</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are efficient</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are expensive</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are gentle</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (1).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">Philips Sonicare removes 10x more plaque than a manual toothbrush</font>]]></english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -358,24 +358,24 @@
 	<round name="2">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 2?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare Airfloss is:</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">gentle on gums</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">not effective</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">not a waterjet</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (2).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Philips Sonicare AirFloss Ultra is clinically proven to improve gingival health as effectively as floss.]]></english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -384,24 +384,24 @@
 	<round name="3">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 3?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare toothbrushes:</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">have more movements than other brushes</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are less effective than round brush heads</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are more effective than manual brushing</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (3).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>100% improve of gingival health.\nPhilips Sonicare DiamondClean Smart with Premium Plaque Control brush head vs. Oral-B Genius 8000 with FlossAction brush head.]]></english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -410,24 +410,24 @@
 	<round name="4">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 4?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?Philips Sonicare toothbrushes:</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">is easy to use</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">removes less plaque than waterjets</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">removes up to 99.9% of plaque</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (4).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Airfloss is extremely easy to use and removes plaque effectively.]]></english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -436,24 +436,24 @@
 	<round name="5">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 5?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How many brush strokes do you get each minute with Philips Sonicare DiamondClean Smart?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">31,000</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">62,000</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">50,000</english>
 		</text>
-		
+
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (5).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">The Philips Sonicare DiamondClean Smart delivers <![CDATA[<font face="CentraleSans-Xbold"> 62,000 </font>]]> brush strokes a minute, giving you a month’s worth of manual brush strokes in two minutes.</english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -462,24 +462,24 @@
 	<round name="6">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 6?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left" html="true">What percentage of adults between 35 and 44 are affected by severe <![CDATA[<font face="CentraleSans-Xbold"> periodental </font>]]> (gum) disease?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">5-15%</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">10-20%</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">25-30%</english>
 		</text>
-		
+			
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (6).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">Severe <![CDATA[<font face="CentraleSans-Xbold"> periodental </font>]]> (gum) disease, which may result in tooth loss, is found in 15–20% of middle-aged (35–44 years) adults.</english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -488,24 +488,24 @@
 	<round name="7">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 7?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What percentage of people aged 65–74 years have no natural teeth?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">15%</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">30%</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">25%</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (7).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">Globally, about 30% of people aged 65–74 years have no natural teeth, a burden expected to increase in the light of ageing populations.</english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -514,24 +514,24 @@
 	<round name="8">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 8?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">When and how often should you brush your teeth?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Once a day for 3 minutes each time.</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Twice a day for two minutes each time.</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Three times a day for 1 minute each time.</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (8).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">The American Dental Association recommends brushing your teeth twice a day with fluoride toothpaste for two minutes each time.</english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -540,24 +540,24 @@
 	<round name="9">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 9?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">When should you take your child to see the dentist for the first time?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">After five teeth, before second birthday</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Before first tooth and first birthday</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">After child’s full set of milk teeth</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (9).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>The American Dental Association recommends that your child’s first dental visit should take place after that first tooth appears, but no later than the first birthday.]]></english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -566,24 +566,24 @@
 	<round name="10">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 10?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">A Philips Sonicare toothbrush can deliver more strokes in two minutes than a manual toothbrush could in…</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">A day</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">A month</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">A week</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (10).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>An entire month - Philips Sonicare achieves this velocity through a combination of its high frequency and high amplitude bristle motions.]]></english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -592,24 +592,24 @@
 	<round name="11">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 11?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How quickly can effects be noticed on the gum after using the Philips Sonicare DiamondClean?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">1 month</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">2 weeks</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">6 months</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (11).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Effects can be noticed in two weeks. The Philips Sonicare DiamondClean toothbrush reduces the risk of gum disease by removing seven times more plaque than a manual toothbrush.]]></english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -618,24 +618,24 @@
 	<round name="12">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 12?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How long will you spend brushing your teeth over a lifetime?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">60.5 days</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">38.5 days</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">20 days</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (12).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>You will spend 38.5 days over your lifetime brushing your teeth. In just one minute Philips Sonicare Diamondclean performs 62,000 brushstrokes, therefore significantly improving your oral hygiene.]]></english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -644,24 +644,24 @@
 	<round name="13">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 13?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What percentage of Americans will have at least 1 cavity by age 17?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">50%</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">78%</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">62.50%</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (13).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">As high as 78% of Americans have had at least 1 cavity by age 17.</english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -670,24 +670,24 @@
 	<round name="14">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 14?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How many times more common is tooth decay in children than hay fever?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">2 times more common</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">7 times more common</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">5 times common</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (14).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>The correct answer is 7 times more common. The number one chronic child disease is tooth decay.]]></english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -696,24 +696,24 @@
 	<round name="15">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 15?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How many times more plaque is removed by electric toothbrushes than manual toothbrushes?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">2 times more plaque removal</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">10 times more plaque removal</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">5 times more plaque removal</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (15).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">Philips sonicare toothbrushes</font> remove up to 10 times more plaque than manual toothbrushes.]]></english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -722,24 +722,24 @@
 	<round name="16">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 16?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How much saliva does your mouth produce in a lifetime?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">20,000 quarts</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">25,000 quarts</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">30,000 quarts</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (16).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>25,000 quarts - that’s enough to fill two swimming pools.]]></english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -748,24 +748,24 @@
 	<round name="17">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 17?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How quickly after brushing your teeth does plaque begin to form?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">2 hours</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">4 hours</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">6 hours</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (17).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Plaque begins to form 4 hours after brushing. Plaque causes tooth decay and gum disease if they are not removed regularly through brushing and flossing.]]></english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -774,24 +774,24 @@
 	<round name="18">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 18?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How often should you replace your Philips Sonicare brush head?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">once every 6 months</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Once every 3 months</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Once a month</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (18).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Replace your brush head every 3 months. TIP – If your blue reminder bristles fade before 3 months of use, it’s time to replace your brush head!]]></english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -800,24 +800,24 @@
 	<round name="19">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 19?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How many teeth does an adult have in total (including wisdom teeth)?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">28</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">32</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">30</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (19).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>There are 32 adult teeth in total – 12 more than in the baby set.]]></english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
@@ -826,24 +826,24 @@
 	<round name="20">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What's the answer for test question 20?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare toothbrushes:</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is not the right one</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">support cleaning in-between teeth</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is the right answer</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">misses hard to reach areas</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">This is wrong</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">comes with several intensity levels</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">This is the explanation title text in bold font (20).</font>\n \nThis is the explanation body text in regular font.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">Explanation text is missing (20).</font>\n \nText not present into the excel file.]]></english>
 		</text>
 		
-		<text name="explanation_bottom_">
+		<text name="explanation_bottom">
 			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
 		</text>
 		
