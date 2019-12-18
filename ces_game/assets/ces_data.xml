@@ -49,7 +49,7 @@
 	</text>
 	
 	<text name="START_QUIZ">
-		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Start now</english>
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Start Quiz</english>
 		<german font="CentraleSans-Regular"  size="36" embed="true" align="center" adjust_y="0">Jetzt starten</german>
 		
 		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
@@ -60,8 +60,8 @@
 	</text>
 	
 	<text name="QUIZ_NAME">
-		<english font="CentraleSans-XLight" size="42" embed="true" align="left">Philips Oral Healthcare Quiz</english>
-		<german font="CentraleSans-XLight"  size="42" embed="true" align="left" adjust_y="0">Philips Oral Healthcare Quiz</german>
+		<english font="CentraleSans-XLight" size="42" embed="true" align="left">Philips Care better quiz</english>
+		<german font="CentraleSans-XLight"  size="42" embed="true" align="left" adjust_y="0">Philips Care better quiz</german>
 		
 		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
 		<french font="CentraleSans-XLight"  size="36" embed="true" align="center">*FRANÇAIS*</french>
@@ -185,7 +185,7 @@
 	</text>
 	
 	<text name="ENTERNAME_TITLE">
-		<english font="CentraleSans-Regular" size="54" embed="true" align="center">You are in *position place</english>
+		<english font="CentraleSans-Regular" size="54" embed="true" align="center">You are *position</english>
 		<german font="CentraleSans-Regular"  size="54" embed="true" align="center">Sie sind auf dem *position. Platz</german>
 		
 		<arabic font="GESSTwoM" size="48" html="true" embed="true" align="center">*عربى*</arabic>
