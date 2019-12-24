@@ -27,7 +27,7 @@
 	</text>
 	
 	<text name="SELECT">
-		<english font="CentraleSans-Bold" size="28" embed="true" align="center">Play and reach the top of the Leader Board.</english>
+		<english font="CentraleSans-Bold" size="28" embed="true" align="center">Play and reach the top of the Leaderboard.</english>
 		<german font="CentraleSans-Bold"  size="28" embed="true" align="center">Spielen Sie sich an die Spitze der Rangliste.</german>
 		
 		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
@@ -38,7 +38,7 @@
 	</text>
 	
 	<text name="PLEASE_WAIT">
-		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Please wait. Instructions are given by the quiz master</english>
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Please wait. Instructions are given by the quiz master.</english>
 		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Bitte warten Sie einen Moment.\nDie Anweisungen werden vom Quizmaster gegeben.</german>
 		
 		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
@@ -49,7 +49,7 @@
 	</text>
 	
 	<text name="START_QUIZ">
-		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Start Quiz</english>
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Start quiz</english>
 		<german font="CentraleSans-Regular"  size="36" embed="true" align="center" adjust_y="0">Jetzt starten</german>
 		
 		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
@@ -82,7 +82,7 @@
 	</text>
 	
 	<text name="CORRECT">
-		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Great, correct</english>
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Correct</english>
 		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">Super, richtig</german>
 		
 		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
@@ -93,7 +93,7 @@
 	</text>
 	
 	<text name="INCORRECT">
-		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Sorry, wrong answer</english>
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Incorrect</english>
 		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">Sorry, leider falsch</german>
 		
 		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
@@ -163,7 +163,7 @@
 	
 	
 	<text name="LEADERBOARD_TITLE">
-		<english font="CentraleSans-Regular" size="54" embed="true" align="center">Leader Board</english>
+		<english font="CentraleSans-Regular" size="54" embed="true" align="center">Leaderboard</english>
 		<german font="CentraleSans-Regular"  size="54" embed="true" align="center">Rangliste</german>
 		
 		<arabic font="GESSTwoM" size="48" html="true" embed="true" align="center">*عربى*</arabic>
@@ -174,7 +174,7 @@
 	</text>
 	
 	<text name="LEADERBOARD_COMPETITION">
-		<english font="CentraleSans-Regular" size="28" embed="true" align="center">Top 3 players each day will win a Sonicare toothbrush.</english>
+		<english font="CentraleSans-Regular" size="28" embed="true" align="center">The top player each day will win a Philips Sonicare toothbrush.</english>
 		<german font="CentraleSans-Regular"  size="28" embed="true" align="center">Die 3 besten Spieler können jeden Tag eine Sonicare Schallzahnbürste gewinnen.</german>
 		
 		<arabic font="GESSTwoM" size="28" html="true" embed="true" align="center">*عربى*</arabic>
@@ -207,7 +207,7 @@
 	</text>
 	
 	<text name="LEADERBOARD_BUTTON">
-		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Leader Board</english>
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Leaderboard</english>
 		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Rangliste</german>
 		
 		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
@@ -606,7 +606,7 @@
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Gums will become healthier within two weeks.\nThe Philips Sonicare DiamondClean toothbrush reduces the risk of gum disease by removing seven times more plaque than a manual toothbrush.]]></english>
+			<english font="CentraleSans-XLight" size="29" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Gums will become healthier within two weeks. The Philips Sonicare DiamondClean toothbrush reduces the risk of gum disease by removing seven times more plaque than a manual toothbrush.]]></english>
 		</text>
 		
 		<text name="explanation_bottom">
@@ -658,7 +658,7 @@
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">As high as 78% of Americans have had at least 1 cavity by age 17.</english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">As high as 78% of Americans have had at least one cavity by age 17.</english>
 		</text>
 		
 		<text name="explanation_bottom">
