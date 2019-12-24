@@ -336,17 +336,17 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are efficient</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">are efficient</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are expensive</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">are expensive</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are gentle</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">are gentle</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">Philips Sonicare removes 10x more plaque than a manual toothbrush</font>]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">Philips Sonicare removes 10 times more plaque than a manual toothbrush.</english>
 		</text>
 		
 		<text name="explanation_bottom">
@@ -362,13 +362,13 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">gentle on gums</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">gentle on gums</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">not effective</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">not effective</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">not a waterjet</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">not a waterjet</english>
 		</text>
 		
 		<text name="explanation_top">
@@ -388,17 +388,17 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">have more movements than other brushes</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">have more movements than other brushes</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are less effective than round brush heads</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">are less effective than round brush heads</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">are more effective than manual brushing</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">are more effective than manual brushing</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>100% improve of gingival health.\nPhilips Sonicare DiamondClean Smart with Premium Plaque Control brush head vs. Oral-B Genius 8000 with FlossAction brush head.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>For improving gingival health, the Philips Sonicare Diamond Clean Smart with Premium Plaque Control brush head outperforms the Oral-B Genium 8000 with FlossAction brush head.]]></english>
 		</text>
 		
 		<text name="explanation_bottom">
@@ -414,13 +414,13 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">is easy to use</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">are easy to use</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">removes less plaque than waterjets</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">removes less plaque than waterjets</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">removes up to 99.9% of plaque</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">removes up to 99.9% of plaque</english>
 		</text>
 		
 		<text name="explanation_top">
@@ -440,17 +440,17 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">31,000</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">31,000</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">62,000</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">62,000</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">50,000</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">50,000</english>
 		</text>
 
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">The Philips Sonicare DiamondClean Smart delivers <![CDATA[<font face="CentraleSans-Xbold"> 62,000 </font>]]> brush strokes a minute, giving you a month’s worth of manual brush strokes in two minutes.</english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">The Philips Sonicare DiamondClean Smart delivers 62,000 brush strokes a minute, giving you a month’s worth of manual brush strokes in two minutes.</english>
 		</text>
 		
 		<text name="explanation_bottom">
@@ -462,21 +462,21 @@
 	<round name="6">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left" html="true">What percentage of adults between 35 and 44 are affected by severe <![CDATA[<font face="CentraleSans-Xbold"> periodental </font>]]> (gum) disease?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left" html="true">What percentage of adults between 35 and 44 are affected by severe periodental (gum) disease?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">5-15%</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">5-15%</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">10-20%</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">10-20%</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">25-30%</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">25-30%</english>
 		</text>
 			
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">Severe <![CDATA[<font face="CentraleSans-Xbold"> periodental </font>]]> (gum) disease, which may result in tooth loss, is found in 15–20% of middle-aged (35–44 years) adults.</english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">Severe periodental (gum) disease, which may result in tooth loss, is found in 15–20% of middle-aged (35–44 years) adults.</english>
 		</text>
 		
 		<text name="explanation_bottom">
@@ -492,17 +492,17 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">15%</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">15%</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">30%</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">30%</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">25%</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">25%</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">Globally, about 30% of people aged 65–74 years have no natural teeth, a burden expected to increase in the light of ageing populations.</english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">Globally, about 30% of people aged 65–74 years have no natural teeth,\na burden expected to increase in the light of ageing populations.</english>
 		</text>
 		
 		<text name="explanation_bottom">
@@ -518,13 +518,13 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Once a day for 3 minutes each time.</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">Once a day for three minutes each time.</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Twice a day for two minutes each time.</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">Twice a day for two minutes each time.</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Three times a day for 1 minute each time.</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">Three times a day for one minute each time.</english>
 		</text>
 		
 		<text name="explanation_top">
@@ -544,13 +544,13 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">After five teeth, before second birthday</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">After fifth tooth and before their second birthday</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Before first tooth and first birthday</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">Before first tooth and first birthday</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">After child’s full set of milk teeth</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">After the full set of milk teeth</english>
 		</text>
 		
 		<text name="explanation_top">
@@ -570,17 +570,17 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">A day</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">A day</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">A month</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">A month</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">A week</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">A week</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>An entire month - Philips Sonicare achieves this velocity through a combination of its high frequency and high amplitude bristle motions.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>A Philips Sonicare toothbrush can deliver more strokes in two minutes than a manual toothbrush could in an entire month. It achieves this velocity through a combination of its high frequency and high amplitude bristle motions.]]></english>
 		</text>
 		
 		<text name="explanation_bottom">
@@ -592,21 +592,21 @@
 	<round name="11">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How quickly can effects be noticed on the gum after using the Philips Sonicare DiamondClean?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How quickly will gums become healthier after using the Philips Sonicare DiamondClean?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">1 month</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">1 month</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">2 weeks</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">2 weeks</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">6 months</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">6 months</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Effects can be noticed in two weeks. The Philips Sonicare DiamondClean toothbrush reduces the risk of gum disease by removing seven times more plaque than a manual toothbrush.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Gums will become healthier within two weeks.\nThe Philips Sonicare DiamondClean toothbrush reduces the risk of gum disease by removing seven times more plaque than a manual toothbrush.]]></english>
 		</text>
 		
 		<text name="explanation_bottom">
@@ -622,17 +622,17 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">60.5 days</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">60.5 days</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">38.5 days</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">38.5 days</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">20 days</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">20 days</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>You will spend 38.5 days over your lifetime brushing your teeth. In just one minute Philips Sonicare Diamondclean performs 62,000 brushstrokes, therefore significantly improving your oral hygiene.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>You will spend 38.5 days over your lifetime brushing your teeth. In just one minute Philips Sonicare DiamondClean performs 62,000 brushstrokes, therefore significantly improving your oral hygiene.]]></english>
 		</text>
 		
 		<text name="explanation_bottom">
@@ -644,17 +644,17 @@
 	<round name="13">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What percentage of Americans will have at least 1 cavity by age 17?</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What percentage of Americans will have at least one cavity by age 17?</english>
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">50%</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">50%</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">78%</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">78%</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">62.5%</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">62.5%</english>
 		</text>
 		
 		<text name="explanation_top">
@@ -674,13 +674,13 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">2 times more common</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">2 times more common</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">7 times more common</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">7 times more common</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">5 times common</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">5 times common</english>
 		</text>
 		
 		<text name="explanation_top">
@@ -700,17 +700,17 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">2 times more plaque removal</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">2 times more plaque removal</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">10 times more plaque removal</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">10 times more plaque removal</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">5 times more plaque removal</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">5 times more plaque removal</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold">Philips sonicare toothbrushes</font> remove up to 10 times more plaque than manual toothbrushes.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">Philips Sonicare toothbrushes remove up to 10 times more plaque than manual toothbrushes.</english>
 		</text>
 		
 		<text name="explanation_bottom">
@@ -726,17 +726,17 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">20,000 quarts</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">20,000 quarts</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">25,000 quarts</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">25,000 quarts</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">30,000 quarts</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">30,000 quarts</english>
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>25,000 quarts - that’s enough to fill two swimming pools.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>A mouth will produce 25,000 quarts of saliva in a lifetime. That’s enough to fill two swimming pools.]]></english>
 		</text>
 		
 		<text name="explanation_bottom">
@@ -752,13 +752,13 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">2 hours</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">2 hours</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">4 hours</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">4 hours</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">6 hours</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">6 hours</english>
 		</text>
 		
 		<text name="explanation_top">
@@ -778,13 +778,13 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">once every 6 months</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">Once every 6 months</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Once every 3 months</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">Once every 3 months</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">Once a month</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">Once a month</english>
 		</text>
 		
 		<text name="explanation_top">
@@ -804,13 +804,13 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">28</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">28</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">32</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">32</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">30</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">30</english>
 		</text>
 		
 		<text name="explanation_top">
@@ -830,13 +830,13 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">support cleaning in-between teeth</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">support cleaning\nin-between teeth</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">misses hard to reach areas</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">miss hard to reach areas</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="left">comes with several intensity levels</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">comes with several intensity levels</english>
 		</text>
 		
 		<text name="explanation_top">
