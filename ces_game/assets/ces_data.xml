@@ -570,13 +570,13 @@
 		</text>
 
 		<text name="response_1">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">A day</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">a day</english>
 		</text>
 		<text name="response_2">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">A month</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">a month</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">A week</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">a week</english>
 		</text>
 		
 		<text name="explanation_top">
@@ -836,7 +836,7 @@
 			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">miss hard to reach areas</english>
 		</text>
 		<text name="response_3">
-			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">comes with several intensity levels</english>
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">come with several intensity levels</english>
 		</text>
 		
 		<text name="explanation_top">
