@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <data>
 	
-	<setting name ="TOTAL_ROUNDS">5</setting>
+	<setting name ="TOTAL_ROUNDS">1</setting>
 	<setting name ="RESTART_TIMEOUT">10</setting>
 	<setting name ="NO_ACTIVITY_TIMEOUT">50</setting>
 
@@ -61,8 +61,8 @@
 	</text>
 	
 	<text name="QUIZ_NAME">
-		<english font="CentraleSans-XLight" size="42" embed="true" align="left">Philips Care better quiz</english>
-		<german font="CentraleSans-XLight"  size="42" embed="true" align="left" adjust_y="0">Philips Care better quiz</german>
+		<english font="CentraleSans-XLight" size="42" embed="true" align="left">Philips Smile better quiz</english>
+		<german font="CentraleSans-XLight"  size="42" embed="true" align="left" adjust_y="0">Philips Smile better quiz</german>
 		
 		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
 		<french font="CentraleSans-XLight"  size="36" embed="true" align="center">*FRANÇAIS*</french>
@@ -151,7 +151,7 @@
 	</text>
 	
 	<text name="THANK_YOU">
-		<english font="CentraleSans-Regular" size="48" embed="true" align="center">Thank you</english>
+		<english font="CentraleSans-Regular" size="48" embed="true" align="center"  html="true">Thank you\n\n<![CDATA[<font size="30" face="CentraleSans-Regular">Follow us on Instagram to learn more: </font><font size="30" face="CentraleSans-Xbold">@philipssonicarepro</font>]]></english>
 		<german font="CentraleSans-Regular"  size="48" embed="true" align="center">Vielen Dank</german>
 		
 		<arabic font="GESSTwoM" size="48" html="true" embed="true" align="center">*عربى*</arabic>
