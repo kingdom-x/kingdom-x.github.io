@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<setting name ="TOTAL_ROUNDS">5</setting>
+	<setting name ="RESTART_TIMEOUT">10</setting>
+	<setting name ="NO_ACTIVITY_TIMEOUT">50</setting>
+
+	<text name="WELCOME">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Welcome</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">Willkommen</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="INSTRUCTIONS">
+		<english font="CentraleSans-Regular" size="28" embed="true" align="center">How quickly can you select the correct answer to our 6 questions about Philips? The top 3 players of the day win a Sonicare toothbrush.</english>
+		<german font="CentraleSans-Regular"  size="28" embed="true" align="center">Wählen Sie schnell die richtigen Antworten bei 6 Fragen aus. Die 3 besten Spieler des Tages gewinnen eine Sonicare Schallzahnbürste‎.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="28" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="28" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="28" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="28" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="SELECT">
+		<english font="CentraleSans-Bold" size="28" embed="true" align="center">Play and reach the top of the Leaderboard.</english>
+		<german font="CentraleSans-Bold"  size="28" embed="true" align="center">Spielen Sie sich an die Spitze der Rangliste.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="28" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="28" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="28" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="28" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="PLEASE_WAIT">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Please wait. Instructions are given by the quiz master.</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Bitte warten Sie einen Moment.\nDie Anweisungen werden vom Quizmaster gegeben.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="START_QUIZ">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Start quiz</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center" adjust_y="0">Jetzt starten</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="QUIZ_NAME">
+		<english font="CentraleSans-XLight" size="42" embed="true" align="left">Philips Care better quiz</english>
+		<german font="CentraleSans-XLight"  size="42" embed="true" align="left" adjust_y="0">Philips Care better quiz</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-XLight"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-XLight"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-XLight"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="QUESTION">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="left">Question *1</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="left">Frage *1</german>
+		
+		<arabic font="GESSTwoM" size="35" html="true" embed="true" align="right">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="44" embed="true" align="left">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="44" embed="true" align="left">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="44" embed="true" align="left">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="41" embed="true" align="left">*ITALIANO*</italian>
+	</text>
+	
+	<text name="CORRECT">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Correct</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">Super, richtig</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="INCORRECT">
+		<english font="CentraleSans-Regular" size="60" embed="true" align="center">Incorrect</english>
+		<german font="CentraleSans-Regular"  size="60" embed="true" align="center">Sorry, leider falsch</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="NEXT">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Next</english>
+		<german font="CentraleSans-Regular"  size="28" embed="true" align="center" adjust_y="3">Weiter</german>
+		<!-- <german font="CentraleSans-Regular"  size="28" embed="true" align="center" adjust_y="3">Nächste Frage</german>  -->
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="WELL_DONE">
+		<english font="CentraleSans-Regular" size="68" embed="true" align="center">You’re a top 10 player!*Well done!</english>
+		<german font="CentraleSans-Regular"  size="68" embed="true" align="center">Sie gehören zu den\nTop 10 Spielern!*Gut gemacht</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+
+	<text name="SCORE">
+		<english font="CentraleSans-Regular" size="68" embed="true" align="center">*</english>
+		<german font="CentraleSans-Regular"  size="68" embed="true" align="center">*</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*</arabic>
+		<french font="CentraleSans-Xbold"  size="60" embed="true" align="center">*</french>
+		<spanish font="CentraleSans-Xbold"  size="60" embed="true" align="center">*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="left">*</mandarin>
+		<italian font="CentraleSans-Xbold"  size="60" embed="true" align="center">*</italian>
+	</text>
+	 
+
+	<text name="POINTS">
+		<english font="CentraleSans-Light" size="54" embed="true" align="center">You scored *correct out of *total in *time seconds\nPoints awarded:</english>
+		<german font="CentraleSans-Light"  size="54" embed="true" align="center">Sie haben *correct von *total Fragen in *time Sekunden richtig beantwortet.\nErreichte Punktzahl:</german>
+		
+		<arabic font="GESSTwoM" size="60" html="true" embed="true" align="center">*</arabic>
+		<french font="CentraleSans-Regular"  size="60" embed="true" align="center">*</french>
+		<spanish font="CentraleSans-Regular"  size="60" embed="true" align="center">*</spanish>
+		<mandarin font="YaHeiB"  size="60" embed="true" align="left">*</mandarin>
+		<italian font="CentraleSans-Regular"  size="60" embed="true" align="center">*</italian>
+	</text>
+	
+	<text name="THANK_YOU">
+		<english font="CentraleSans-Regular" size="48" embed="true" align="center">Thank you</english>
+		<german font="CentraleSans-Regular"  size="48" embed="true" align="center">Vielen Dank</german>
+		
+		<arabic font="GESSTwoM" size="48" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="48" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="48" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="48" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="48" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	
+	
+	<text name="LEADERBOARD_TITLE">
+		<english font="CentraleSans-Regular" size="54" embed="true" align="center">Leaderboard</english>
+		<german font="CentraleSans-Regular"  size="54" embed="true" align="center">Rangliste</german>
+		
+		<arabic font="GESSTwoM" size="48" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="48" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="48" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="48" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="48" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="LEADERBOARD_COMPETITION">
+		<english font="CentraleSans-Regular" size="28" embed="true" align="center">The top player each day will win a Philips Sonicare toothbrush.</english>
+		<german font="CentraleSans-Regular"  size="28" embed="true" align="center">Die 3 besten Spieler können jeden Tag eine Sonicare Schallzahnbürste gewinnen.</german>
+		
+		<arabic font="GESSTwoM" size="28" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="28" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="28" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="28" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="28" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="ENTERNAME_TITLE">
+		<english font="CentraleSans-Regular" size="54" embed="true" align="center">You are *position</english>
+		<german font="CentraleSans-Regular"  size="54" embed="true" align="center">Sie sind auf dem *position. Platz</german>
+		
+		<arabic font="GESSTwoM" size="48" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="48" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="48" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="48" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="48" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="ENTERNAME_INSTRUCTIONS">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Enter your name below</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Tragen Sie Ihren Namen ein</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="LEADERBOARD_BUTTON">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Leaderboard</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Rangliste</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	
+	<text name="SEND_BUTTON">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Send</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Senden</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="FINISH_BUTTON">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Finish</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Fertig</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="36" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="36" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="36" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+
+	<text name="ARE_YOU_HTERE">
+		<english font="CentraleSans-Bold" size="54" embed="true" align="center">Are you still there?</english>
+		<german font="CentraleSans-Regular"  size="54" embed="true" align="center">Sind Sie noch da?</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="54" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="54" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="54" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="THE_GAME_WILL_RESTART">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">The game will restart in</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Das Spiel wird in</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="54" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="54" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="54" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	<text name="SECONDS">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">seconds.</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Sekunden neu starten.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="54" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="54" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="54" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	
+	
+	<text name="PRESS_TO_CONTINUE">
+		<english font="CentraleSans-Regular" size="36" embed="true" align="center">Press the screen to continue.</english>
+		<german font="CentraleSans-Regular"  size="36" embed="true" align="center">Berühren Sie den Bildschirm,\num fortzufahren.</german>
+		
+		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="54" embed="true" align="center">*FRANÇAIS*</french>
+		<spanish font="CentraleSans-Regular"  size="54" embed="true" align="center">*ESPAÑOL*</spanish>
+		<mandarin font="YaHeiB"  size="36" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="54" embed="true" align="center">*ITALIANO*</italian>
+	</text>
+	
+	
+	
+	
+	<text name="b_1">
+		<english font="CentraleSans-Regular" size="33" embed="true" align="center">A</english>
+		<german font="CentraleSans-Regular"  size="33" embed="true" align="center">A</german>
+		
+		<arabic font="GESSTwoM" size="33" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="33" embed="true" align="center">A</french>
+		<spanish font="CentraleSans-Regular"  size="33" embed="true" align="center">A</spanish>
+		<mandarin font="YaHeiB"  size="33" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="33" embed="true" align="center">A</italian>
+	</text>
+	<text name="b_2">
+		<english font="CentraleSans-Regular" size="33" embed="true" align="center">B</english>
+		<german font="CentraleSans-Regular"  size="33" embed="true" align="center">B</german>
+		
+		<arabic font="GESSTwoM" size="33" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="33" embed="true" align="center">B</french>
+		<spanish font="CentraleSans-Regular"  size="33" embed="true" align="center">B</spanish>
+		<mandarin font="YaHeiB"  size="33" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="33" embed="true" align="center">B</italian>
+	</text>
+	<text name="b_3">
+		<english font="CentraleSans-Regular" size="33" embed="true" align="center">C</english>
+		<german font="CentraleSans-Regular"  size="33" embed="true" align="center">C</german>
+		
+		<arabic font="GESSTwoM" size="33" html="true" embed="true" align="center">*عربى*</arabic>
+		<french font="CentraleSans-Regular"  size="33" embed="true" align="center">C</french>
+		<spanish font="CentraleSans-Regular"  size="33" embed="true" align="center">C</spanish>
+		<mandarin font="YaHeiB"  size="33" embed="true" align="center">*您完成*</mandarin>
+		<italian font="CentraleSans-Regular"  size="33" embed="true" align="center">C</italian>
+	</text>
+	
+	<!--  
+			<![CDATA[<font face="CentraleSans-Xbold"></font>\n \n]]>
+			
+	-->
+
+	<!-- ////////////////////////////////////////////////////// ROUNDS ////////////////////////////////////////////////////////////////////////////////////////////// -->
+	
+
+	<round name="1">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare toothbrushes:</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">are efficient</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">are expensive</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">are gentle</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">Philips Sonicare removes 10 times more plaque than a manual toothbrush.</english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+	
+	<round name="2">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare Airfloss is:</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">gentle on gingiva</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">not effective</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">not a waterjet</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Philips Sonicare AirFloss Ultra is clinically proven to improve gingival health as effectively as floss.]]></english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	
+	<round name="3">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How many species of bacteria can be present in oral biofilms?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">500</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">1000</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">2000</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Up to 1000 different species of microorganisms can colonize the oral biofilm which can lead to oral cavities and periodontal infections.]]></english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+	
+	
+	<!--
+	<round name="3">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare toothbrushes:</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">have more movements than other brushes</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">are less effective than round brush heads</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">are more effective than manual brushing</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>For improving gingival health, the Philips Sonicare Diamond Clean Smart with Premium Plaque Control brush head outperforms the Oral-B Genium 8000 with FlossAction brush head.]]></english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+		-->
+
+	<round name="4">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare toothbrushes:</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">is easy to use</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">removes less plaque than waterjets</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">removes up to 99.9% of plaque</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Airfloss is extremely easy to use and removes plaque effectively.]]></english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="5">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How many bristle movements do you get each minute with Philips Sonicare DiamondClean Smart?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">31,000</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">62,000</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">50,000</english>
+		</text>
+
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">The Philips Sonicare DiamondClean Smart delivers 62,000 brush strokes a minute, giving you a month’s worth of manual brush strokes in two minutes.</english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="6">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left" html="true">What percentage of adults have or have had a moderato to severe periodontal disease?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">15%</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">21%</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">35%</english>
+		</text>
+			
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">Moderate to severe periodental (gum) disease, which may result in tooth loss, is found in 21% of of adults.</english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="7">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What percentage of people aged 60–79 years have no natural teeth?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">15%</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">30%</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">25%</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">Globally, about 25% of people aged 60–79 years have no natural teeth, a burden expected to increase in the light of ageing populations.</english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+	
+	
+	<round name="8">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nSonicare for Kids:</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">encourages kids to brush longer</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">is difficult to hold for little hands</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">provides effective and gentle cleaning</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">Removes up to 75% more  plaque in hard-to-reach areas than a children's manual toothbrush and kids brush more often with a Connected Sonicare for Kids toothbrush (versus non-connected)</english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+	
+	
+	<!--  
+	<round name="8">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">When and how often should you brush your teeth?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">Once a day for three minutes each time.</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">Twice a day for two minutes each time.</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">Three times a day for one minute each time.</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">The American Dental Association recommends brushing your teeth twice a day with fluoride toothpaste for two minutes each time.</english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+-->
+	<round name="9">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What percentage of Canadian children between 6-11 years old have or have had a cavity?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">30%</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">57%</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">46%</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>The Canadian Dental Association recommends that your child’s first dental visit should take place within 6 months after the first tooth erupts or by their first.]]></english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="10">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">A Philips Sonicare toothbrush can deliver more strokes in two minutes than a manual toothbrush could in…</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">a day</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">a month</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">a week</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>A Philips Sonicare toothbrush can deliver more strokes in two minutes than a manual toothbrush could in an entire month. It achieves this velocity through a combination of its high frequency and high amplitude bristle motions.]]></english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="11">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How quickly can effects be noticed on the gingiva after using the Philips Sonicare DiamondClean?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">1 month</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">2 weeks</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">6 months</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="29" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Effects can be noticed in two weeks. In a clinical Study, 100% of patients with gingivitis improved their gum health in just 2 weeks (with the gum health mode).]]></english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="12">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How long will you spend brushing your teeth over a lifetime?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">60.5 days</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">38.5 days</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">20 days</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>You will spend 38.5 days over your lifetime brushing your teeth. In just one minute Philips Sonicare DiamondClean performs 62,000 brushstrokes, therefore significantly improving your oral hygiene.]]></english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="13">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">What percentage of Canadian adults have a history of cavities?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">80%</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">96%</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">98%</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">As high as 96% of Canadians adults have a history of cavities.</english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="14">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How many times is tooth decay more common than hay fever?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">2 times more common</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">7 times more common</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">5 times common</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>The correct answer is 7 times more common. The number one chronic child disease is tooth decay.]]></english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="15">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Philips Sonicare power toothbrushes can remove up to __________ more plaque than manual toothbrushes.</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">2 times</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">10 times</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">5 times</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">Philips Sonicare toothbrushes remove up to 10 times more plaque than manual toothbrushes.</english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="16">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How much saliva does your mouth produce in a lifetime?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">20,000 quarts</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">25,000 quarts</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">30,000 quarts</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>A mouth will produce 25,000 quarts of saliva in a lifetime. That’s enough to fill two swimming pools.]]></english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="17">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How quickly after brushing your teeth does plaque begin to form?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">2 hours</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">4 hours</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">6 hours</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Plaque begins to form 4 hours after brushing. Plaque causes tooth decay and gum disease if they are not removed regularly through brushing and flossing.]]></english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<round name="18">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How often should you replace your Philips Sonicare brush head?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">Once every 6 months</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">Once every 3 months</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">Once a month</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Replace your brush head every 3 months.\nA new brush head removes 28% more plaque vs. a 3 month old one.\nTIP – If your blue reminder bristles fade before 3 months of use, it’s time to replace your brush head!]]></english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+<!-- 
+	<round name="19">
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">How many teeth does an adult have in total (including wisdom teeth)?</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">28</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">32</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">30</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>There are 32 adult teeth in total – 12 more than in the baby set.]]></english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+ -->
+	<round name="19"><!-- this is number 20 on xls -->
+
+		<text name="question">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare toothbrushes:</english>
+		</text>
+
+		<text name="response_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">support cleaning\nin-between teeth</english>
+		</text>
+		<text name="response_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">miss hard to reach areas</english>
+		</text>
+		<text name="response_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">come with several intensity levels</english>
+		</text>
+		
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>Sonicare power toothbrushes get in-between teeth, removing plaque from areas other toothbrushes can’t reach.]]></english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		
+	</round>
+
+	<!-- ////////////////////////////////////////////////////// END ROUNDS ////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+	
+	
+	
+	<!-- ////////////////////////////////////////////////////// QUESTIONNAIRES ////////////////////////////////////////////////////////////////////////////////////////////// -->
+	
+	<questionnaire name="1">
+
+		<text name="questionnaire">
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Following your experience at the Philips booth today, how likely are you to recommend Sonicare to a client?</english>
+		</text>
+
+		<text name="choice_1">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">More likely</english>
+		</text>
+		<text name="choice_2">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">Equally as likely</english>
+		</text>
+		<text name="choice_3">
+			<english font="CentraleSans-Xbold" size="36" embed="true" align="center">Less likely</english>
+		</text>
+		<!--
+		<text name="explanation_top">
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"> (no explanation - you shouldn't display this) </english>
+		</text>
+		
+		<text name="explanation_bottom">
+			<english font="CentraleSans-XLight" size="25" embed="true" align="left"> </english>
+		</text>
+		-->
+		
+	</questionnaire>
+	
+	
+
+	
+	
+</data>
