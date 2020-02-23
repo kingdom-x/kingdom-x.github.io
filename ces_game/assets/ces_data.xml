@@ -60,8 +60,8 @@
 	</text>
 	
 	<text name="QUIZ_NAME">
-		<english font="CentraleSans-XLight" size="42" embed="true" align="left">Philips Care better quiz</english>
-		<german font="CentraleSans-XLight"  size="42" embed="true" align="left" adjust_y="0">Philips Care better quiz</german>
+		<english font="CentraleSans-XLight" size="42" embed="true" align="left">Philips Smile better quiz</english>
+		<german font="CentraleSans-XLight"  size="42" embed="true" align="left" adjust_y="0">Philips Smile better quiz</german>
 		
 		<arabic font="GESSTwoM" size="36" html="true" embed="true" align="center">*عربى*</arabic>
 		<french font="CentraleSans-XLight"  size="36" embed="true" align="center">*FRANÇAIS*</french>
