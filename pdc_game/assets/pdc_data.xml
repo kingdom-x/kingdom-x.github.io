@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <data>
 	
-	<setting name ="TOTAL_ROUNDS">1</setting>
+	<setting name ="TOTAL_ROUNDS">5</setting>
 	<setting name ="RESTART_TIMEOUT">10</setting>
 	<setting name ="NO_ACTIVITY_TIMEOUT">50</setting>
 
