@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <data>
 	
-	<setting name ="TOTAL_ROUNDS">5</setting>
+	<setting name ="TOTAL_ROUNDS">1</setting>
 	<setting name ="RESTART_TIMEOUT">10</setting>
 	<setting name ="NO_ACTIVITY_TIMEOUT">50</setting>
 
@@ -347,7 +347,7 @@
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">Philips Sonicare removes 10 times more plaque than a manual toothbrush.</english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">Philips Sonicare removes 10 times more plaque than a manual toothbrush and are available in wide range of prices.</english>
 		</text>
 		
 		<text name="explanation_bottom">
@@ -441,7 +441,7 @@
 	<round name="4">
 
 		<text name="question">
-			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare toothbrushes:</english>
+			<english font="CentraleSans-XLight" size="36" embed="true" align="left">Which of the following is a myth?\nPhilips Sonicare AirFloss:</english>
 		</text>
 
 		<text name="response_1">
@@ -481,7 +481,7 @@
 		</text>
 
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">The Philips Sonicare DiamondClean Smart delivers 62,000 brush strokes a minute, giving you a month’s worth of manual brush strokes in two minutes.</english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true">The Philips Sonicare DiamondClean Smart delivers 62,000 bristle movements a minute, giving you a month’s worth of manual brush strokes in two minutes.</english>
 		</text>
 		
 		<text name="explanation_bottom">
@@ -692,7 +692,7 @@
 		</text>
 		
 		<text name="explanation_top">
-			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>You will spend 38.5 days over your lifetime brushing your teeth. In just one minute Philips Sonicare DiamondClean performs 62,000 brushstrokes, therefore significantly improving your oral hygiene.]]></english>
+			<english font="CentraleSans-XLight" size="30" embed="true" align="left" html="true"><![CDATA[<font face="CentraleSans-Xbold"></font>You will spend 38.5 days over your lifetime brushing your teeth. In just one minute Philips Sonicare DiamondClean performs 62,000 bristle movements, therefore significantly improving your oral hygiene.]]></english>
 		</text>
 		
 		<text name="explanation_bottom">
